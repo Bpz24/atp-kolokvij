@@ -25,5 +25,7 @@ Neki drugi popis
 |Ana    |1.3.4    | Voće
 
 
+link do LICENSE
+https://github.com/Bpz24/atp-kolokvij/new/main
 
 
