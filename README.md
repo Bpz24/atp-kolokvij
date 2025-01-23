@@ -18,3 +18,12 @@ Neki drugi popis
 2. krumpiri
 3. kupus
 4. luk
+
+
+| autor | verzija | naziv
+|---    |---      |---
+|Ana    |1.3.4    | Voće
+
+
+
+
